@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying Software Engineering at African Leadership University
-- ✍️ I blog on [Hashnode](https://hashnode.com/@anesu)
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence from the ground up
-- 📫 How to reach me: a.kafesu@alustudent.com
+- 🔭 I'm a Junior Software Engineer building some interesting projects.
+- ✍️ I write on [my blog](https://anesu.dev/blog) sometimes.
+- 🌱 I’m currently solidfying my CS fundamentals and building some portfolio projects.
+- 📫 How to reach me: anesukafesu@gmail.com
